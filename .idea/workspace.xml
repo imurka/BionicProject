@@ -61,8 +61,8 @@
       <file leaf-file-name="TestArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/seleniumqa/lesson5/TestArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48513675" vertical-offset="0" max-vertical-offset="841">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.36385256" vertical-offset="0" max-vertical-offset="841">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#489#490#0" expanded="true" />
@@ -830,8 +830,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/seleniumqa/lesson5/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48513675" vertical-offset="0" max-vertical-offset="841">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.36385256" vertical-offset="0" max-vertical-offset="841">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#489#490#0" expanded="true" />
