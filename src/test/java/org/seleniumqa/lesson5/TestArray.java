@@ -21,7 +21,14 @@ public class TestArray {
 
     @Test
     public void verifyArrayLength(int[] arr, int length){
-        assertTrue(arr.length <= length);
+        assertTrue(verifyArray(arr, length));
+    }
+
+    private boolean verifyArray(int[] arr, int length) {
+        if (arr.length <= length){
+            return true;
+        } else
+        return false;
     }
 
     @AfterTest
