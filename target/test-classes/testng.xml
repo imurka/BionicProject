@@ -6,6 +6,11 @@
             <class name="org.seleniumqa.lesson_2.TestCalculation"/>
         </classes>
     </test>
+    <test name="ArrayLength">
+        <classes>
+            <class name="org.seleniumqa.lesson5.TestArray"/>
+        </classes>
+    </test>
 
 
 </suite>

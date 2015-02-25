@@ -4,7 +4,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import static org.testng.AssertJUnit.assertTrue;
+import static org.testng.Assert.assertTrue;
 
 /**
  * Created by admin on 25.02.2015.
@@ -20,12 +20,12 @@ public class TestArray {
     }
 
     @Test
-    public void verifyArrayLength(int[] arr, int length){
+    public void verifyArrayLength(){
         assertTrue(verifyArray(arr, length));
     }
 
     private boolean verifyArray(int[] arr, int length) {
-        if (arr.length <= length){
+        if (arr.length >= length){
             return true;
         } else
         return false;
